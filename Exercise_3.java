@@ -50,7 +50,8 @@ class LinkedList {
                 // Insert the new_node at last node 
                 curr.next = newNode;
                 curr = newNode;
-        }           
+        }
+           
         // Return the list by head 
         return list;
         
